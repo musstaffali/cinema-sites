@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Permanent+Marker&display=swap');
+
+.heading {
+    color: rgba(250, 57, 43, 0.623);
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    overflow: scroll;
+    font-family: 'Amatic SC', cursive;
+    font-size: x-large;
+}
+
+.heading__icon > .MuiSvgIcon-root {
+    font-size: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.heading__icon > p {
+    display: none;
+    text-transform: uppercase;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: large;
+    letter-spacing: 3px;
+
+}
+.heading__icon:hover > p {
+    display: inline-flex;
+}
+.heading__icon--active > p {
+    display: inline-flex !important;
+}
+
+.heading > h2 {
+    object-fit: contain;
+    height: 80px;
+}
+
+.heading__icon {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    width: 100px;
+}
+.heading__icons {
+    display: flex;
+    align-items:center ;
+    text-align: center;
+}
+
+.heading {
+    -ms-overflow-style: none;
+    scrollbar-width: none
+}
+
+.heading::-webkit-scrollbar {
+    display: none;
+}

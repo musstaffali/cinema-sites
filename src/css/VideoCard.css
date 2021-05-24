@@ -1,0 +1,32 @@
+.videocard {
+    color: #ffffff;
+    padding: 20px;
+    height: 400px;
+    width: 500px;
+    transition: transform 100ms;
+    font-family: 'Amatic SC', cursive;
+    font-size: large;
+    font-style: bold;
+    font-weight: 300px;
+}
+
+.videocard:hover {
+    transform: scale(1.09);
+}
+.videocard__info {
+    display: none;
+}
+.videocard:hover >.videocard__info {
+    display: inline;
+}
+
+.videocard > img{
+    height: 300px;
+    object-fit: contain;
+    width: 500px;
+}
+
+.videocard > h3 {
+    padding-top: 10px;
+    
+}
