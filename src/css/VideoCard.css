@@ -1,5 +1,6 @@
 .videocard {
-    color: #ffffff;
+    background-color:rgba(216, 215, 215, 0.623);
+    color: rebeccapurple;
     padding: 20px;
     height: 400px;
     width: 500px;

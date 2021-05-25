@@ -13,7 +13,7 @@ function Heading() {
                 <HomeIcon/>
                 <p>Home</p>
                 </div>
-                <div className="heading__icon">
+                {/* <div className="heading__icon">
                 <LiveTvIcon/>
                 <p>Live TV</p>
                 </div>
@@ -24,13 +24,13 @@ function Heading() {
                 <div className="heading__icon">
                 <YoutubeSearchedForIcon/>
                 <p>Search</p>
-                </div>
-                <div className="heading__icon">
+                </div> */}
+                {/* <div className="heading__icon">
                 <PersonOutlinedIcon/>
                 <p>Account</p>
-                </div>
+                </div> */}
             </div>
-            <h1>Remarkable Flickz</h1>
+            <h1>4 Seasons Cinema</h1>
         </div>
     )
 }
