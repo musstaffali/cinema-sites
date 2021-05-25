@@ -1,9 +1,9 @@
 import React from 'react';
 import HomeIcon from '@material-ui/icons/Home';
-import LiveTvIcon from '@material-ui/icons/LiveTv';
-import YoutubeSearchedForIcon from '@material-ui/icons/YoutubeSearchedFor';
-import PersonOutlinedIcon from '@material-ui/icons/PersonOutlined';
-import VideoLibraryIcon from '@material-ui/icons/VideoLibrary';
+// import LiveTvIcon from '@material-ui/icons/LiveTv';
+// import YoutubeSearchedForIcon from '@material-ui/icons/YoutubeSearchedFor';
+// import PersonOutlinedIcon from '@material-ui/icons/PersonOutlined';
+// import VideoLibraryIcon from '@material-ui/icons/VideoLibrary';
 import '../css/Heading.css'
 function Heading() {
     return (
