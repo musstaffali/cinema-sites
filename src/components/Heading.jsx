@@ -1,9 +1,9 @@
 import React from 'react';
-import HomeIcon from '@material-ui/icons/Home';
+import HomeIcon from '@material-ui/icons/Theaters';
 // import LiveTvIcon from '@material-ui/icons/LiveTv';
-// import YoutubeSearchedForIcon from '@material-ui/icons/YoutubeSearchedFor';
-// import PersonOutlinedIcon from '@material-ui/icons/PersonOutlined';
-// import VideoLibraryIcon from '@material-ui/icons/VideoLibrary';
+import YoutubeSearchedForIcon from '@material-ui/icons/QueryBuilder';
+import PersonOutlinedIcon from '@material-ui/icons/FlashOn';
+import VideoLibraryIcon from '@material-ui/icons/Map';
 import '../css/Heading.css'
 function Heading() {
     return (
@@ -11,26 +11,26 @@ function Heading() {
             <div className="heading__icons">
                 <div className="heading__icon heading__icon--active">
                 <HomeIcon/>
-                <p>Home</p>
+                <p>4 SEASONZ CINEMA</p>
                 </div>
                 {/* <div className="heading__icon">
                 <LiveTvIcon/>
                 <p>Live TV</p>
-                </div>
+                </div>*/}
                 <div className="heading__icon">
                 <VideoLibraryIcon/>
-                <p>Libraries</p>
+                <p>123 Alphabet St Hollywood California</p>
                 </div>
                 <div className="heading__icon">
                 <YoutubeSearchedForIcon/>
-                <p>Search</p>
-                </div> */}
-                {/* <div className="heading__icon">
+                <p>9:00 am - 12:00 am</p>
+                </div> 
+                <div className="heading__icon">
                 <PersonOutlinedIcon/>
-                <p>Account</p>
-                </div> */}
+                <p>Happy Hours after 10pm :)</p>
+                </div>
             </div>
-            <h1>4 Seasons Cinema</h1>
+            <h1>Playing Now</h1>
         </div>
     )
 }
