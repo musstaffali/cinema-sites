@@ -27,7 +27,7 @@ function Heading() {
                 </div> 
                 <div className="heading__icon">
                 <PersonOutlinedIcon/>
-                <p>Happy Hours after 10pm :)</p>
+                <p>Happy Hours after 8pm :)</p>
                 </div>
             </div>
             <h1>Playing Now</h1>
