@@ -9,12 +9,16 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
+    "cli-truncate": "^2.1.0",
     "react": "^17.0.2",
     "react-axios": "^2.0.5",
     "react-dom": "^17.0.2",
     "react-flip-move": "^3.0.4",
+    "react-read-more": "^1.0.0",
     "react-scripts": "4.0.3",
+    "react-text-truncate": "^0.16.0",
     "react-truncate-markup": "^5.1.0",
+    "truncate": "^2.1.0",
     "web-vitals": "^1.0.1"
   },
   "scripts": {

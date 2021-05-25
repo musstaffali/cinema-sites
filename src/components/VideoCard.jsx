@@ -1,6 +1,6 @@
 import React, { forwardRef } from 'react';
 import TextTruncate from 'react-text-truncate';
-// import {ThumbUpSharp} from '@material-ui/icons';
+import {ThumbUpSharp} from '@material-ui/icons';
 import "../css/VideoCard.css";   
 
 const base_url="https://image.tmdb.org/t/p/original/"
