@@ -1,5 +1,6 @@
 .videocard {
-    background-color:rgba(216, 215, 215, 0.623);
+    /* background-color:rgba(216, 215, 215, 0.623); */
+    background-image: linear-gradient(to left, #051421, rebeccapurple);
     color: rebeccapurple;
     padding: 20px;
     height: 400px;
