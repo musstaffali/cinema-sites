@@ -1,5 +1,4 @@
 .app {
   width: 100vw;
-  /* background-image: linear-gradient(to left, #051421, rebeccapurple); */
-  background-color:rgba(216, 215, 215, 0.623);
-}
+  background-image: linear-gradient(to left, #051421, rebeccapurple); 
+};
