@@ -2,7 +2,7 @@
 
 - Live Link - [Live Website](https://60ad9564bc18270098b0979a--optimistic-ramanujan-7da5b8.netlify.app)
 
-![](img/Screen%20Shot%202021-08-11%20at%206.53.42%20PM.png)
+![](img/Screen%20Shot%202021-08-11%20at%208.21.48%20PM.png)
 
 
 ---
