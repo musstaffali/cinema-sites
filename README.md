@@ -20,13 +20,13 @@
 
 ## Description
 
-A high-fidelity fully-fledged model eCommerce store designed to allow users to buy a variety of furniture online.
+Responsive web app that replicates an online cinema retail business
 
 
 #### Technologies
 
-- Next.js
-- ReactStrap
+- React.js
+- Discover Movie Data Base API
 
 [Back To The Top](#read-me-template)
 
